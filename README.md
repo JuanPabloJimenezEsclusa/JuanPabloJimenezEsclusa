@@ -1,6 +1,6 @@
 # Juan Pablo Jiménez Esclusa
 
-Software Engineer | Technical Leader | IZ0-819 | IZ0-829 | CKAD | LFCS | AWS Solution Architect
+Technical Leader | Software Engineer | Java IZ0-819 | Java IZ0-829 | CKAD | LFCS | AWS Solution Architect - SAA | AWS Developer - DVA
 
 <details>
   <br/>
@@ -54,14 +54,17 @@ Software Engineer | Technical Leader | IZ0-819 | IZ0-829 | CKAD | LFCS | AWS Sol
 ## ♻️ Continuous Career Recycling
 
 <p>
-<img src="https://media.licdn.com/dms/image/sync/D4D27AQFHdvYMqMuJKA/articleshare-shrink_1280_800/0/1704378979382?e=1705431600&amp;v=beta&amp;t=ETVum4tvBmFC0GNNcHL20icuY8aU7b7JRt5FAlyLXCw" loading="lazy" alt="Oracle Certified Professional: Java SE 17 Developer" width="200" height="100"/>
-<img src="https://media.licdn.com/dms/image/sync/D4D27AQEMY_w0g7N13g/articleshare-shrink_1280_800/0/1704725708677?e=1705431600&amp;v=beta&amp;t=yV5J9GQ3AQwPLFeuHj4kkBA7bHY7jrUZKIAGmegeNlY" loading="lazy" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" width="200" height="100"/>
-<img src="https://media.licdn.com/dms/image/sync/C4D27AQEUJGQjxqkCCg/articleshare-shrink_800/0/1704452748256?e=1705431600&amp;v=beta&amp;t=XLd6zBHoV8wZVMIA8-n87sHegZkNxlyZlLao30Rh7Sw" loading="lazy" alt="Oracle Certified Professional: Java SE 11 Developer" id="ember1692" width="100" height="100"/>
+
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE17.png" loading="lazy" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" width="200" height="100"/>
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE11.png" loading="lazy" alt="Oracle Certified Professional: Java SE 11 Developer" id="ember1692" width="100" height="100"/>
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" loading="lazy" alt="Oracle Certified Professional: Java SE 17 Developer" width="200" height="100"/>
 </p>
+
 <p>
-<img src="https://media.licdn.com/dms/image/sync/D4D10AQFkSRm2IV_hrQ/image-shrink_800/0/1693217949534?e=1705431600&amp;v=beta&amp;t=52h6ZbEStB3qi5fNwhqvs7jwJUV8xdNunZfVigcFTPw" loading="lazy" alt="LFCS" width="200" height="100" />
-<img src="https://media.licdn.com/dms/image/sync/D4D10AQGu6hmU1BwuEw/image-shrink_800/0/1689414432247?e=1705431600&amp;v=beta&amp;t=uz5HG7z7pslg_QrCGvhdy-uvVIhcU4Tb3IbnsDl2Tos" loading="lazy" alt="CKAD" width="200" height="100"/>
-<img src="https://media.licdn.com/dms/image/sync/D5610AQHAZAFVK-HrSQ/image-shrink_800/0/1701956856591?e=1705431600&amp;v=beta&amp;t=p0HycNaOA3tXcM3hKMhajUvNXfJmmQzMqyQXAuN5Uvo" loading="lazy" alt="AWS SAA" width="200" height="100" />
+<img src="https://images.credly.com/size/100x100/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" loading="lazy" alt="LFCS" width="100" height="100" />
+<img src="https://images.credly.com/size/100x100/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" loading="lazy" alt="CKAD" width="100" height="100"/>
+<img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" loading="lazy" alt="AWS SAA" width="100" height="100" />
+<img src="https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" loading="lazy" alt="AWS SAA" width="100" height="100" />
 </p>
 
 ## ⚡ Stats
@@ -72,20 +75,22 @@ Software Engineer | Technical Leader | IZ0-819 | IZ0-829 | CKAD | LFCS | AWS Sol
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
-## 💡 Suggestions
+## 🧰 Suggestions
 
- Title | Authors | ISBN
---------|---------|------
-Architecting Cloud-Native Serverless Solutions | Safeer CM | 9781803230085
-API Design Patterns | JJ Geewax | 9781617295850
-The Software Architect Elevator | Gregor Hohpe | 9781492077541
-Clean Code Fundamentals | Martin Hock
-Clean Architecture | Robert C. Martin | 9780134494166
-Modern Software Engineering | David Farley | 9780137314911
-Software Architecture for Developers | Simon Brown
-Building Evolutionary Architectures | Neal Ford, Rebecca Parsons, Patrick Kua | 9781491986363
-A philosophy of Software Design | John Ousterhout | 9781732102217
-Software Enginerring at Google | Titus Winters, Tom Manshreck, Hyrum Wright | 9781492082798
-Architecting Cloud Native Application | Kamal Arora, Erik Farr | 9781838643317
-Java By Comparison | Simon Harrer, Jörg Lenhard, Linus Dietz | 9781680502879
-Modernizing Enterprise Java: A Concise Cloud Native Guide for Developers | Markus Eisele, Natale Vinto | 9781098102142
+ Title | Authors | ISBN | Year
+-------|---------|------|-----
+Designing Hexagonal Architecture with Java 🔥 | Davi Vieira | 9781801816489 | 2023
+Get Your Hands Dirty on Clean Architecture: Build 'clean' applications with code examples in Java 🔥 | Tom Hombergs | 9781805128373 | 2023
+Architecting Cloud-Native Serverless Solutions: Design, build, and operate serverless solutions on cloud and open source platforms | Safeer CM | 9781803230085 | 2023
+API Design Patterns | JJ Geewax | 9781617295850 | 2021
+The Software Architect Elevator:  Redefining the Architect's Role in the Digital Enterprise | Gregor Hohpe | 9781492077541 | 2020
+Clean Code Fundamentals | Martin Hock | | 2023
+Clean Architecture | Robert C. Martin | 9780134494166 | 2017
+Modern Software Engineering: Doing What Works to Build Better Software Faster | David Farley | 9780137314911 | 2021
+Software Architecture for Developers | Simon Brown | | 2022
+Building Evolutionary Architectures: Support Constant Change | Neal Ford, Rebecca Parsons, Patrick Kua | 9781491986363 | 2017
+A philosophy of Software Design 💡 | John Ousterhout | 9781732102217 | 2021
+Software Enginerring at Google 💡 | Titus Winters, Tom Manshreck, Hyrum Wright | 9781492082798 | 2020
+Architecting Cloud Native Application | Kamal Arora, Erik Farr | 9781838643317 | 2019
+Java By Comparison | Simon Harrer, Jörg Lenhard, Linus Dietz | 9781680502879 | 2018
+Modernizing Enterprise Java: A Concise Cloud Native Guide for Developers | Markus Eisele, Natale Vinto | 9781098102142 | 2021
