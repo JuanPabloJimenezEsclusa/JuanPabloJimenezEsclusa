@@ -62,7 +62,7 @@ Technical Leader | Software Engineer | Java IZ0-819 | Java IZ0-829 | CKAD | LFCS
 
 <p>
 <img src="https://images.credly.com/size/100x100/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" loading="lazy" alt="LFCS" width="100" height="100" />
-<img src="https://images.credly.com/size/100x100/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" loading="lazy" alt="CKAD" width="100" height="100"/>
+<img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" loading="lazy" alt="CKAD" width="100" height="100"/>
 <img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" loading="lazy" alt="AWS SAA" width="100" height="100" />
 <img src="https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" loading="lazy" alt="AWS SAA" width="100" height="100" />
 </p>
