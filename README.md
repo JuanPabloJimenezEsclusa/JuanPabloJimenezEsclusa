@@ -18,6 +18,15 @@ Passionate Technical Leader and Software Engineer with expertise in Java ecosyst
 
 ## 💻 Technologies & Tools
 
+### AI & Machine Learning
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain4J](https://img.shields.io/badge/LangChain4J-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![oLlama](https://img.shields.io/badge/oLlama-0A0A0A?style=for-the-badge&logo=meta&logoColor=white)
+
 ### Programming Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-EE0000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
