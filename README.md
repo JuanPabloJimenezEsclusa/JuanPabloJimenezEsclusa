@@ -100,13 +100,10 @@ Passionate Technical Leader and Software Engineer with expertise in Java ecosyst
 <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE17.png" loading="lazy" alt="Oracle Certified Professional: Java SE 17 Developer" style="width:200px;height:100px;object-fit:contain;margin:5px;"/>
 <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE11.png" loading="lazy" alt="Oracle Certified Professional: Java SE 11 Developer" style="width:100px;height:100px;object-fit:contain;margin:5px;"/>
 </p>
-
-<p>
-<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" loading="lazy" alt="Oracle Certified Foundation 2023" style="width:200px;height:100px;object-fit:contain;margin:5px;"/>
-</p>
-
 <p>
 <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" loading="lazy" alt="Oracle Certified AI Foundation 2025" style="width:200px;height:100px;object-fit:contain;margin:5px;"/>
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" loading="lazy" alt="Oracle Certified Foundation 2025" style="width:200px;height:100px;object-fit:contain;margin:5px;"/>
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" loading="lazy" alt="Oracle Certified Foundation 2023" style="width:200px;height:100px;object-fit:contain;margin:5px;"/>
 </p>
 
 ## ⚡ GitHub Stats
